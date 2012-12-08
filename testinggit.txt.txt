@@ -3,3 +3,6 @@ first time I am using Git...seems pretty cool !
 
 
 Great :D
+
++2 
+adding smiley support to commit messages :D
